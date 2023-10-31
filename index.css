@@ -265,8 +265,7 @@ h4 {
 @media (max-width:500px){
   body{
     width: 100%;
-  }
-  
+  }  
   .main-section{
     width: 95%;
     height: 300px;
@@ -286,6 +285,22 @@ h4 {
     width: 50px;
     height: auto;
   }
+  .jump-to-top {
+    font-size: 0.8rem;
+    position: fixed;
+    bottom: 5%;
+  }
+  .mobile,
+.mail{
+  font-size: 1.2em;
+  padding: 2px;
+  margin: 2px;
+}
+.copyright{
+  font-size: 0.8em;
+  padding: 5px;
+  margin: 5px;
+}
 }
 
 
