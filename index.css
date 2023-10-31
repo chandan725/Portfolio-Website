@@ -275,17 +275,15 @@ h4 {
   }
 
   .left img{
-    width: 40px;
+    width: 100px;
     height: auto;
-    padding-right: 5px;
   }
-
   .intro{
    font-size: 0.7rem;
    padding-left: 10px;
   }
   .socials img{
-    width: 25px;
+    width: 50px;
     height: auto;
   }
 }
